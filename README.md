@@ -16,16 +16,26 @@ This project implements a clustering algorithm based on symmetric Non-negative M
 ## How to Run
 ### Compilation:
 To compile the C module:
+```
 $make
+```
 To build the Python extension:
+```
 $python3 setup.py build_ext --inplace
+```
 ### Execution:
 For the Python program:
+```
 $python3 symnmf.py <k> <goal> <input_file.txt>
+```
 For the C program:
+```
 $./symnmf <goal> <input_file.txt>
+```
 For analysis comparing SymNMF with Kmeans:
+```
 $python3 analysis.py <k> <input_file.txt>
+```
 
 ## File Structure
 - symnmf.py: Main Python interface.
