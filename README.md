@@ -1,2 +1,2 @@
-# Spectral-Clustering-API
+# Spectral Clustering API
 Spectral Clustering API
