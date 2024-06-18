@@ -1,5 +1,5 @@
 # Symmetric Non-negative Matrix Factorization (SymNMF) for Clustering
-
+  
 ## Overview
 This project implements a clustering algorithm based on symmetric Non-negative Matrix Factorization (SymNMF). The algorithm is applied to several datasets and is compared with the K-means clustering method. The main goal is to form clusters based on the provided data points.
 
